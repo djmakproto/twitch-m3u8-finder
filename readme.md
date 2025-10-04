@@ -20,7 +20,7 @@ You can find it on websites such as [twitchtracker](https://twitchtracker.com/),
 
 A twitchtracker url is formatted as twitchtracker.com/[USERNAME]/streams.[STREAMID]. You can find the start time of the stream below the "stream summary" section.
 
-![twitchtracker url](img/ttURL.png)
+![twitchtracker url](img/ttURL.PNG)
 
 ![twitchtracker time](img/ttTime.PNG)
 
@@ -39,5 +39,6 @@ A sullygnome url is formatted as sullygnome.com/channel/[USERNAME]/stream/[STREA
 Whichever website you choose to get information from, the timestamp must match one of their formats exactly or else the tool may not work properly.
 
 # Okay, so I have the m3u8 link, what do I do with it?
+
 
 Simply copy and paste it into the box labeled "View/Download with m3u8 link" in the extension, or [open it as a network stream in VLC media player](https://youtu.be/lxyKIWGqP00?t=13).
