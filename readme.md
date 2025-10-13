@@ -36,9 +36,16 @@ A sullygnome url is formatted as sullygnome.com/channel/[USERNAME]/stream/[STREA
 
 ![sullygnome time](img/sgTime.PNG)
 
-Whichever website you choose to get information from, the timestamp must match one of their formats exactly or else the tool may not work properly.
+You can also type in the time/date shown to you by the extension.
+
+![extension time](img/extensionTime.PNG)
+
+If you are looking for a stream from the current day you can just simply type in the time in either 12 or 24 hour format (00:00, 12:00 am, or 12:00am if looking for a stream that started at midnight today)
+
+Whichever website you choose to get information from, the timestamp must match one of the above formats exactly or else the tool may not work properly.
 
 # Okay, so I have the m3u8 link, what do I do with it?
 
-
 Simply copy and paste it into the box labeled "View/Download with m3u8 link" in the extension, or [open it as a network stream in VLC media player](https://youtu.be/lxyKIWGqP00?t=13).
+
+## [Changelog](changelog.md)
