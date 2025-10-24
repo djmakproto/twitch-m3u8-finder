@@ -24,6 +24,8 @@ A twitchtracker url is formatted as twitchtracker.com/[USERNAME]/streams.[STREAM
 
 ![twitchtracker time](img/ttTime.PNG)
 
+![twitchtracker time from recent streams page](img/ttTime2.PNG)
+
 A streamscharts url is formatted as streamscharts.com/channels/[USERNAME]/streams/[STREAMID]. You can find the start time at the top of the page under the stream title. Streamscharts provides the start time in UTC (+0), so you will need to convert it into your local timezone for the tool to work correctly.
 
 ![streamscharts url](img/scURL.PNG)
@@ -40,7 +42,7 @@ You can also type in the time/date shown to you by the extension.
 
 ![extension time](img/extensionTime.PNG)
 
-If you are looking for a stream from the current day you can just simply type in the time in either 12 or 24 hour format (00:00, 12:00 am, or 12:00am if looking for a stream that started at midnight today)
+If you are looking for a stream from the current day you can simply type the time in either 12 or 24-hour format (ie 00:00, 12:00 am, or 12:00am if looking for a stream that started at midnight today)
 
 Whichever website you choose to get information from, the timestamp must match one of the above formats exactly or else the tool may not work properly.
 
