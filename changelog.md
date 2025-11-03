@@ -1,5 +1,9 @@
 # Changelog
 
+### version 1.5
+* fixed some timestamp issues causing a lot of false negatives
+* new feature: a list! search for multiple streams at once
+
 ### version 1.2
 
 * fixed an issue where capitalized usernames would lead to vod not being found
