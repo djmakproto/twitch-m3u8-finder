@@ -1,5 +1,8 @@
 # Changelog
 
+### version 1.5.1
+* new cdns
+
 ### version 1.5
 * fixed some timestamp issues causing a lot of false negatives
 * new feature: a list! search for multiple streams at once
